@@ -1,0 +1,14 @@
+// variáveis da grade
+$grid-columns: 12;
+$grid-max-width: 1280px;
+
+// colors
+$primary: #542d4c;
+$background: #f7f7f7;
+$secondary: #70d6b8;;
+$lightgray: #dfdfdf;
+$darkgray: #666;
+
+// breakpoints
+$breakpoint-small: "screen and (min-width: 600px) and (max-width:900px)";
+$breakpoint-medium: "screen and (min-width: 900px)";
